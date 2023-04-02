@@ -40,9 +40,14 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla voluptatibus, 
-            labore cum maiores quis molestias sapiente accusantium quia architecto quae consequuntur 
-            consectetur assumenda ea placeat aperiam at voluptas. Nihil, autem.
+          Welcome to my portfolio! I am a game developer with expertise in using the Unreal Engine. 
+          As a passionate gamer and creative problem solver, I have dedicated myself to developing 
+          immersive and engaging game experiences that push the boundaries of what is possible in the 
+          world of gaming. With 3+ years of experience working on a variety of game development projects, 
+          I have honed my skills in designing, developing, and delivering games that captivate players and keep them 
+          coming back for more. In this portfolio, you will find a showcase of some of my most notable works, including 
+          projects I have led, collaborated on, and contributed to. I hope that my passion and expertise in game 
+          development shines through in these examples, and that you are inspired to collaborate with me on your next game project..
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>

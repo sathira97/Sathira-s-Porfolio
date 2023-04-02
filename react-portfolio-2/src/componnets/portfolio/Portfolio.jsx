@@ -1,42 +1,45 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/snp1.jpg'
+import IMG2 from '../../assets/snp2.jpg'
+import IMG3 from '../../assets/snp3.jpg'
+import IMG4 from '../../assets/snp4.jpg'
+import IMG5 from '../../assets/snp5.jpg'
+import IMG6 from '../../assets/snp6.jpg'
+import IMG7 from '../../assets/snp7.jpg'
+import IMG8 from '../../assets/snp8.jpg'
+import IMG9 from '../../assets/snp9.jpg'
 
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Title 1',
+    title: 'Hogar - Action/Survival Game - Unreal Engine 4',
     github: 'https://github.com',
-    artstastion: 'https://artstastion.com'
+    artstastion: 'https://www.artstation.com/artwork/6bzg1w'
   },
 
   {
     id: 2,
     image: IMG2,
-    title: 'Title 2',
+    title: 'Three Miles Island - Action Game - Unreal Engine 4',
     github: 'https://github.com',
-    artstastion: 'https://artstastion.com'
+    artstastion: 'https://www.artstation.com/artwork/QnJ6qZ'
   },
 
   {
     id: 3,
     image: IMG3,
-    title: 'Title 3',
+    title: 'Fishing Madness - 2D Game - Unity',
     github: 'https://github.com',
-    artstastion: 'https://artstastion.com'
+    artstastion: 'https://www.artstation.com/artwork/LeJydR'
   },
 
   {
     id: 4,
     image: IMG4,
-    title: 'Title 4',
+    title: 'Alone - 3D Survival - Unreal Engine 4',
     github: 'https://github.com',
     artstastion: 'https://artstastion.com'
   },
@@ -44,7 +47,7 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'Title 5',
+    title: 'The One Girl - 3D Scene - Blender',
     github: 'https://github.com',
     artstastion: 'https://artstastion.com'
   },
@@ -52,9 +55,30 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Title 6',
+    title: 'Arrow Girl - Cinematic Scene - Unreal Engine 4',
     github: 'https://github.com',
     artstastion: 'https://artstastion.com'
+  },
+
+  {id: 7,
+    image: IMG7,
+    title: 'Laser Turret - Cinematic Scene - Blender',
+    github: 'https://github.com',
+    artstastion: 'https://www.artstation.com/artwork/4XqGq2'
+  },
+
+  {id: 8,
+    image: IMG8,
+    title: "Ruwetha's Odyssey - Third Person Action/Survival Game - Unreal Engine 4",
+    github: 'https://github.com',
+    artstastion: 'https://www.artstation.com/artwork/KOxzBR'
+  },
+
+  {id: 9,
+    image: IMG8,
+    title: "The Mando - Cinematic Scene - Unreal Engine 5",
+    github: 'https://github.com',
+    artstastion: 'https://www.artstation.com/artwork/LeAal0'
   }
 
 ]
