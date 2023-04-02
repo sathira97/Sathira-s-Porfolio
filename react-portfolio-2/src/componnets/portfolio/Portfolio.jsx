@@ -75,7 +75,7 @@ const data = [
   },
 
   {id: 9,
-    image: IMG8,
+    image: IMG9,
     title: "The Mando - Cinematic Scene - Unreal Engine 5",
     github: 'https://github.com',
     artstastion: 'https://www.artstation.com/artwork/LeAal0'
